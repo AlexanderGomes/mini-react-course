@@ -1,0 +1,25 @@
+.post__main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.cardPost__main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: aqua;
+  border-radius: 12px;
+  width: 400px;
+}
+
+.black {
+  background-color: rgb(3, 2, 2);
+  color: white;
+}
