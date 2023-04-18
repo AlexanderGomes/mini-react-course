@@ -1,0 +1,13 @@
+.nav__main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f0f8ff;
+  padding: 10px;
+  height: 60px;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
